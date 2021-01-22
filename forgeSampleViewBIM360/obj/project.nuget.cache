@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jW0h+uRJDH/6U6AhCociP8jJbGzTP9zzXFUkQg53leDDPTdgzL9fN/acqMbw8Upe0bSng4DczAPenU2ZHhUnUg==",
+  "dgSpecHash": "yQ89ylT9w3EqbWot+Jyw4cYP4ai4ny036PVXzkaGaNmmMuQEgf49nEF+mnKFN3aT37c04jWxlsZpG109GkOLVQ==",
   "success": true,
-  "projectFilePath": "/Users/joao.martins/Fontes/MyExtensions/raw/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj",
+  "projectFilePath": "/Users/joao.martins/Fontes/MyExtensions/markup-dbid/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj",
   "expectedPackageFiles": [
     "/Users/joao.martins/.nuget/packages/autodesk.forge/1.8.0/autodesk.forge.1.8.0.nupkg.sha512",
     "/Users/joao.martins/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.10/microsoft.aspnetcore.jsonpatch.3.1.10.nupkg.sha512",

@@ -19,10 +19,11 @@
             },
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development",
-                "ASPNETCORE_URLS" : "http://localhost:3000",
+                "ASPNETCORE_URLS" : "http://localhost:3030",
                 "FORGE_CLIENT_ID": "85PqTeYNuWqPHOBciVsVvJ6axoYAkdXB",
                 "FORGE_CLIENT_SECRET": "1zKrb6JNpZuEelNC",
-                "FORGE_WEBHOOK_URL": "http://bd3bf0a9da5e.ngrok.io",
+                "FORGE_CALLBACK_URL": "http://localhost:3030",
+                "FORGE_WEBHOOK_URL": "http://b97a5e07d512.ngrok.io",
             },
             "sourceFileMap": {
                 "/Views": "${workspaceFolder}/Views"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joao.martins/Fontes/MyExtensions/raw/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj": {}
+    "/Users/joao.martins/Fontes/MyExtensions/markup-dbid/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj": {}
   },
   "projects": {
-    "/Users/joao.martins/Fontes/MyExtensions/raw/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj": {
+    "/Users/joao.martins/Fontes/MyExtensions/markup-dbid/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joao.martins/Fontes/MyExtensions/raw/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj",
+        "projectUniqueName": "/Users/joao.martins/Fontes/MyExtensions/markup-dbid/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj",
         "projectName": "forgeSampleViewBIM360",
-        "projectPath": "/Users/joao.martins/Fontes/MyExtensions/raw/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj",
+        "projectPath": "/Users/joao.martins/Fontes/MyExtensions/markup-dbid/ViewerFromHub/forgeSampleViewBIM360/forgeSampleViewBIM360.csproj",
         "packagesPath": "/Users/joao.martins/.nuget/packages/",
-        "outputPath": "/Users/joao.martins/Fontes/MyExtensions/raw/ViewerFromHub/forgeSampleViewBIM360/obj/",
+        "outputPath": "/Users/joao.martins/Fontes/MyExtensions/markup-dbid/ViewerFromHub/forgeSampleViewBIM360/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joao.martins/.nuget/NuGet/NuGet.Config"
